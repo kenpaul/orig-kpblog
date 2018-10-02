@@ -1,5 +1,5 @@
 ---
-title: "HyperConverged"
+title: "HyperConverged Position Paper"
 date: 2018-10-01T13:36:14-04:00
 draft: false 
 ---
